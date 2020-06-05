@@ -18,5 +18,6 @@ This repository contains the following files, to be implemented in Arduino IDE:
       
       - ESP32 Firebase integration for IR Sensor (Example)
 	
-For this measurements, one must assemble the Breadboard circuit included in this folder, "breadboard.png".
-      
+For this measurements, one must assemble the following Breadboard montage:
+
+![breadboard](https://user-images.githubusercontent.com/55759937/83919298-383f3c00-a772-11ea-8389-b60e2be4441f.png)
