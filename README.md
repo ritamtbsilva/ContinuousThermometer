@@ -23,6 +23,6 @@ For this measurements, one must assemble the following Breadboard montage:
 
       
       
- 
+ ![Breadboard](https://octodex.github.com/images/breadboard.png)
       
       
