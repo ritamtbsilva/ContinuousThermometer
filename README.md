@@ -1,7 +1,8 @@
 # ContinuousThermometer
+
 Implementation on the ESP32 board of a temperature processing model for the MLX90614 and MCP9808 sensors, in order to obtain a reliable continuous temperature measurement. The main motivation for this project was the COVID-19 pandemic and the need for a low-cost thermometer for continuous measurement of body temperature.
 
-This repository contains the following files, to be implemented in Arduino IDE:
+*This repository contains the following files, to be implemented in Arduino IDE:
       * MLX90614 IR sensor with continuous temperature
       * MMCP9808 IC sensor with continuous temperature
       * MLC90614 IR and MMCP9808 IC sensor with continuous temperature, integrated in one script
