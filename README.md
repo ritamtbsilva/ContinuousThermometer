@@ -20,9 +20,5 @@ This repository contains the following files, to be implemented in Arduino IDE:
 	
 For this measurements, one must assemble the following Breadboard montage:
 
-
-      
-      
- ![Breadboard](https://octodex.github.com/images/breadboard.png)
-      
+![alt text](https://github.com/[ritamtbsilva]/[ContinuousThermometer]/blob/breadboard.png?raw=true)
       
